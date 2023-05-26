@@ -6,8 +6,7 @@
 #include "./stepping/_2_2_register_blocking_4*4_.hpp"
 //#include "./stepping/_3_1_simd_avx_.hpp"
 #include "./stepping/_3_2_simd_neon_.hpp"
-//#include "./stepping/_4_loop_unrolling_avx_.hpp"
-//#include "./stepping/_4_2_loop_unrolling_neon_.hpp"
+//#include "./stepping/_4_loop_unrolling_.hpp"
 //#include "./stepping/_5_cache_blocking_.hpp"
 //#include "./stepping/_6_packing_.hpp"
 

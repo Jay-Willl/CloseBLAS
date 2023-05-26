@@ -1,5 +1,5 @@
-#ifndef CLOSEBLAS_4_LOOP_UNROLLING_AVX_H
-#define CLOSEBLAS_4_LOOP_UNROLLING_AVX_H
+#ifndef CLOSEBLAS_4_LOOP_UNROLLING_H
+#define CLOSEBLAS_4_LOOP_UNROLLING_H
 
 //#include "immintrin.h"
 
@@ -94,4 +94,4 @@ scale_ver_4(double *C, int M, int N, int LDC, double scalar) {
     }
 }
 
-#endif //CLOSEBLAS_4_LOOP_UNROLLING_AVX_H
+#endif //CLOSEBLAS_4_LOOP_UNROLLING_H
